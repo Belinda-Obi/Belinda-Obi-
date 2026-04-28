@@ -20,3 +20,4 @@ I am a versatile technical professional with a background in **Desktop Support E
 
 ## 📫 Connect with me
 * **LinkedIn:** [**(https://www.linkedin.com/in/belinda-obi-a06160191?utm_source=share_via&utm_content=profile&utm_medium=member_ios)*]
+* **Email:** bellsnobi@gmail.com

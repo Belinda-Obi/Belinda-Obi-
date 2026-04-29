@@ -1,4 +1,7 @@
-# Hi, I'm Belinda Obi
+# Get To Know Me
+
+
+# My Name is Belinda Obi
 ### Technical Data Analyst | Desktop Support Engineer
 
 I am a versatile technical professional with a background in **Desktop Support Engineering** and **Data Analytics**. I specialize in bridging the gap between IT infrastructure and data-driven decision-making.

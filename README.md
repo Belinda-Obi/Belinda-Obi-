@@ -10,7 +10,7 @@ I am a versatile technical professional with a background in **Desktop Support E
 
 ## 🛠 Technical Stack
 * **Data Analytics:** SQL, Python (Pandas/BeautifulSoup), Power BI (DAX), Tableau.
-* **IT Engineering:** Desktop Support, Helpdesk Operations, Hardware Troubleshooting, Active Directory, OS Deployment.
+* **IT Engineering:** Desktop Support, Helpdesk Operations, Hardware Troubleshooting, Active Directory, Azure , MFA ,OS Deployment.
 
 ---
 
